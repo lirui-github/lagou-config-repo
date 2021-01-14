@@ -1,0 +1,5 @@
+mysql:
+  url: jdbc:mysql://192.168.227.128:3306/db100
+
+lagou:
+  message: hello laogu, 100
