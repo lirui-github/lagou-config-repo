@@ -1,5 +1,5 @@
 mysql:
-  url: jdbc:mysql://192.168.227.128:3306/db800-main
+  url: jdbc:mysql://192.168.227.128:3306/db900-main
 
 lagou:
-  message: hello laogu, 800-main
+  message: hello laogu, 900-main
