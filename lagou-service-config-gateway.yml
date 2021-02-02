@@ -1,0 +1,4 @@
+myown:
+  ipflush:
+    monitor-period: 60  # 单位秒
+    monitor-times: 5  # 次数
