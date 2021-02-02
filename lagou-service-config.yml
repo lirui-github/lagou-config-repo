@@ -2,7 +2,7 @@ spring:
   # 数据库连接信息
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
-    url: jdbc:mysql://192.168.227.128:3305/liruitest?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2b8
+    url: jdbc:mysql://192.168.227.128:3306/liruitest?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT%2b8
     username: root
     password: root
   jpa:
